@@ -5,5 +5,4 @@ A pandemic brought on by the H1N1 influenza virus, also known as "swine flu," st
 
 In October 2009, an H1N1 flu vaccination became widely accessible. The National 2009 H1N1 Flu Survey was carried out in the US in late 2009 and early 2010. In addition to personal information, this phone poll also questioned participants if they had gotten the H1N1 and seasonal flu vaccines. These extra questions included their social, economic, and demographic background, viewpoints on disease risks and the efficacy of vaccinations, as well as actions aimed at reducing transmission. A clearer knowledge of the connections between these traits and individual vaccination habits can
 
-
-![flu-vaccine](https://user-images.githubusercontent.com/22881701/218280361-f6a82a43-8358-4a42-b771-86b7b3e41433.jpg)
+![vaccine](https://user-images.githubusercontent.com/22881701/218325070-031d25c5-359c-4aa0-bdb4-b4ea5097857a.jpg)
