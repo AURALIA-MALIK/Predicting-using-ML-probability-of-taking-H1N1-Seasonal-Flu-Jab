@@ -108,6 +108,8 @@ The ultimate accuracy was determined using logistic regression, decision trees, 
 The logistic regression model, which returned 81.29% more results than the other two models, is now the best of the ones that were utilized.
 
 
+![m1](https://user-images.githubusercontent.com/22881701/218340915-34225da0-08f6-4d8e-b5ab-38e0c0306b0e.PNG)
+
 ![model](https://user-images.githubusercontent.com/22881701/218340781-3cd4fbba-297d-476c-8406-9714aacb0a0b.PNG)
 
 
