@@ -1,4 +1,5 @@
-# PHASE-3-PROJECT
+_PHASE-3-PROJECT: PREDICTING THE PROBABILITY THAT A PERSON WILL RECEIVE THE H1N1 AND SEASONAL FLU VACCINES USING MACHINE LEARNING MODELS_
+_Overview_
 The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. 
 Specifically,predicting two probabilities: one for h1n1_vaccine and one for seasonal_vaccine.
 A pandemic brought on by the H1N1 influenza virus, also known as "swine flu," started in the spring of 2009. According to research, it caused anywhere from 151,000 to 575,000 deaths worldwide in the first year.
@@ -7,15 +8,15 @@ In October 2009, an H1N1 flu vaccination became widely accessible. The National 
 
 ![vaccine](https://user-images.githubusercontent.com/22881701/218325070-031d25c5-359c-4aa0-bdb4-b4ea5097857a.jpg)
 
-PREDICTING THE PROBABILITY THAT A PERSON WILL RECEIVE THE H1N1 AND SEASONAL FLU VACCINES USING MACHINE LEARNING MODELS
 
-BUSINESS UNDERSTANDING
+
+*BUSINESS UNDERSTANDING*
 
 In 2009, the H1N1 influenza pandemic, commonly referred to as "swine flu," spread across the world, resulting in an estimated 151,000 to 575,000 deaths globally in its first year. To combat the virus, a vaccine was made publicly available in October 2009. To gain insight into vaccination patterns and behavior, the United States conducted the National 2009 H1N1 Flu Survey, which was a phone survey that asked participants about their H1N1 and seasonal flu vaccine status, as well as their social, economic, and demographic information, opinions on illness and vaccine risks, and behaviors for reducing transmission. By gaining a better understanding of the relationships between these factors and vaccination patterns, this information can be used to guide future public health initiatives.
 
 
 
-Main Objective 
+* Main Objective* 
 The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. 
 
 The metric of success
