@@ -1,5 +1,10 @@
-_PHASE-3-PROJECT: PREDICTING THE PROBABILITY THAT A PERSON WILL RECEIVE THE H1N1 AND SEASONAL FLU VACCINES USING MACHINE LEARNING MODELS_
-_Overview_
+# PHASE-3-PROJECT: PREDICTING THE PROBABILITY THAT A PERSON WILL RECEIVE THE H1N1 AND SEASONAL FLU VACCINES USING MACHINE LEARNING MODELS
+
+
+
+# Overview
+
+
 The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. 
 Specifically,predicting two probabilities: one for h1n1_vaccine and one for seasonal_vaccine.
 A pandemic brought on by the H1N1 influenza virus, also known as "swine flu," started in the spring of 2009. According to research, it caused anywhere from 151,000 to 575,000 deaths worldwide in the first year.
@@ -10,26 +15,28 @@ In October 2009, an H1N1 flu vaccination became widely accessible. The National 
 
 
 
-*BUSINESS UNDERSTANDING*
+# BUSINESS UNDERSTANDING
 
 In 2009, the H1N1 influenza pandemic, commonly referred to as "swine flu," spread across the world, resulting in an estimated 151,000 to 575,000 deaths globally in its first year. To combat the virus, a vaccine was made publicly available in October 2009. To gain insight into vaccination patterns and behavior, the United States conducted the National 2009 H1N1 Flu Survey, which was a phone survey that asked participants about their H1N1 and seasonal flu vaccine status, as well as their social, economic, and demographic information, opinions on illness and vaccine risks, and behaviors for reducing transmission. By gaining a better understanding of the relationships between these factors and vaccination patterns, this information can be used to guide future public health initiatives.
 
 
 
-* Main Objective* 
+# Main Objective 
+
 The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. 
 
-The metric of success
+# The metric of success
 The performance will be evaluated according to the area under the receiver operating characteristic curve (ROC AUC) for each of the two target variables.
 
 
-Data Understanding
+# Data Understanding 
 Data Source
 
 Data that was used was downloaded from  [Driven Data](https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/)
 
 
-Data Description
+# Data Description 
+
 The information in the data is as follows:
 * h1n1_concern - Level of concern about the H1N1 flu.
 * h1n1_knowledge - Level of knowledge about H1N1 flu.
@@ -91,7 +98,7 @@ The steps for the data cleaning process are:
 * Ensured that there are no missing values in the dataset.
 
 
-Modelling
+# Modelling
 To predict the likelihood of respondents in the survey taking the h1n1 vaccine and seasonal vaccine, machine learning algorithms were used.
 The ultimate accuracy was determined using logistic regression, decision trees, and XGBoost.
 
@@ -100,9 +107,9 @@ The ultimate accuracy was determined using logistic regression, decision trees, 
 
 
 
-Conclusion and Recommendation 
+# Conclusion and Recommendation 
 
-Conclusion
+# Conclusion
 
 * People who received the seasonal vaccine outperformed those who received the H1N1 vaccine.
 * Women received both immunizations at a higher rate than males.
@@ -112,7 +119,7 @@ Conclusion
 * There were fewer persons seeking both immunizations than predicted.
 * In addition, children were not as well immunized as planned.
 
-Recommendations 
+# Recommendations 
 * Based on the conclusion drawn from the data, here are a few recommendations that could be made:
 * Promote the importance of the seasonal flu vaccine over the H1N1 vaccine, highlighting its higher efficacy and safety record.
 * Encourage greater immunization rates among males and people of other races, perhaps through targeted outreach and education initiatives.
