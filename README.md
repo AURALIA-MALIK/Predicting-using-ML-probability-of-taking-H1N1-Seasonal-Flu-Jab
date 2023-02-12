@@ -121,7 +121,7 @@ The ultimate accuracy was determined using logistic regression, decision trees, 
 * In addition, children were not as well immunized as planned.
 
 # Recommendations 
-* Based on the conclusion drawn from the data, here are a few recommendations that could be made:
+Based on the conclusion drawn from the data, here are a few recommendations that could be made:
 * Promote the importance of the seasonal flu vaccine over the H1N1 vaccine, highlighting its higher efficacy and safety record.
 * Encourage greater immunization rates among males and people of other races, perhaps through targeted outreach and education initiatives.
 * Address the issue of access to health insurance, as it appears to impact vaccine choice.
