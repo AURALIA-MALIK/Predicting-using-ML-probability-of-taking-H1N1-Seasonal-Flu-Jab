@@ -99,10 +99,11 @@ The steps for the data cleaning process are:
 
 
 # Modelling
+
 To predict the likelihood of respondents in the survey taking the h1n1 vaccine and seasonal vaccine, machine learning algorithms were used.
 The ultimate accuracy was determined using logistic regression, decision trees, and XGBoost.
 
-
+![modelling](https://user-images.githubusercontent.com/22881701/218327274-45075b5c-f176-40de-a234-19cdc10a4840.png)
 
 
 
