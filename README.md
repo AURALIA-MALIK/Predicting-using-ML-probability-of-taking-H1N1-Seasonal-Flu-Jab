@@ -1,3 +1,9 @@
+* Student name: AURALIA ADILLA MBOYA
+* Student pace: Full Time
+* Scheduled project review date/time: Feb 12th/ 11:59pm
+* Instructor name: Mark Tiba
+
+
 # PHASE-3-PROJECT: PREDICTING THE PROBABILITY THAT A PERSON WILL RECEIVE THE H1N1 AND SEASONAL FLU VACCINES USING MACHINE LEARNING MODELS
 
 
